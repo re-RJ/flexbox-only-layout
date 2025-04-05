@@ -215,7 +215,6 @@ footer img {
   }
 
   aside {
-    width: 300px;
     flex: 0 0 300px;
     align-self: flex-start;
   }
